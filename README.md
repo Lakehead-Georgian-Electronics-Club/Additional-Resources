@@ -1,4 +1,5 @@
-# Cool-Stuff
+# Additional Resources
+
 Anything that might be interesting or useful to the club not directly related to a project.
 - you can add your stuff to the README.md or a new folder
 
